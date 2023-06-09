@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We make a variable called name and value of Dane
+// then we check if the variable is exactly Mary if it is say Hi Mary, if
+// it is not say How do you do
 //
 
 //CODE
@@ -45,10 +45,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We set a variable code with value 123
+// we check if code is exactly 123 then it is super
+// we then double code and check if less than 250
+// if less than then secret is super duper otherwise remains super
+// console secret is super
 
 //CODE
 /*
@@ -70,10 +71,11 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we set three variables with values
+// fist condition if has two requirments if both true student is west
+// second condition if first not met needs to meet one of two requirements for inquire hobbies
+// third condition if exactly then welcome
+// console is only third condition met so Welcome to Prime
 
 //CODE
 /*
@@ -114,6 +116,7 @@ if (isStudent === true && zip > 80000 ) {
 let number = 1;
 
 // FIX - number-- decrements number, but the instructions ask to increment. 
+// should be let number =+ 
 // Should be number++.
 number--; 
 
@@ -130,6 +133,7 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+// color values are reversed
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
@@ -145,6 +149,7 @@ if (mix === true) {
 
 /*
 let temp = 40;
+// let time = 4;
 const time = 4;
 
 if (temp > 39 || time >= 4) {
@@ -158,6 +163,7 @@ if (temp > 39 || time >= 4) {
 
 /*
 let age = 21;
+//let minAge = 21;
 const minAge = 21;
 
 if(minAge <= age) {
