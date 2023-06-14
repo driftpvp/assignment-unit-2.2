@@ -45,8 +45,9 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
+// We set a variable secret with boleen true
 // We set a variable code with value 123
-// we check if code is exactly 123 then it is super
+// we check if code is exactly 123 then secret is super
 // we then double code and check if less than 250
 // if less than then secret is super duper otherwise remains super
 // console secret is super
@@ -76,6 +77,7 @@ console.log(secret)
 // second condition if first not met needs to meet one of two requirements for inquire hobbies
 // third condition if exactly then welcome
 // console is only third condition met so Welcome to Prime
+// if no contitions met console how about the weather
 
 //CODE
 /*
@@ -137,7 +139,7 @@ if (number >= 2) {
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
-
+// missing + colorTwo
 if (mix === true) {
   colorOne = 'purple';
 }
@@ -151,7 +153,7 @@ if (mix === true) {
 let temp = 40;
 // let time = 4;
 const time = 4;
-
+// using || for or instead of && for and
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -165,7 +167,7 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 //let minAge = 21;
 const minAge = 21;
-
+// for the way if is writtne no entry should be the else value and enter should be the first con log
 if(minAge <= age) {
   console.log('no entry');
 } else {
